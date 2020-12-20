@@ -1,0 +1,438 @@
+[
+    {
+        "noteName": "C2",
+        "noteNumber": 36,
+        "outputChannel": 0,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "C#2",
+        "noteNumber": 37,
+        "outputChannel": 1,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D2",
+        "noteNumber": 38,
+        "outputChannel": 2,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D#2",
+        "noteNumber": 39,
+        "outputChannel": 3,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "E2",
+        "noteNumber": 40,
+        "outputChannel": 4,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F2",
+        "noteNumber": 41,
+        "outputChannel": 5,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F#2",
+        "noteNumber": 42,
+        "outputChannel": 6,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G2",
+        "noteNumber": 43,
+        "outputChannel": 7,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G#2",
+        "noteNumber": 44,
+        "outputChannel": 8,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A2",
+        "noteNumber": 45,
+        "outputChannel": 9,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A#2",
+        "noteNumber": 46,
+        "outputChannel": 10,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "B2",
+        "noteNumber": 47,
+        "outputChannel": 11,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+
+
+    {
+        "noteName": "C3",
+        "noteNumber": 48,
+        "outputChannel": 12,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "C#3",
+        "noteNumber": 49,
+        "outputChannel": 13,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D3",
+        "noteNumber": 50,
+        "outputChannel": 14,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D#3",
+        "noteNumber": 51,
+        "outputChannel": 15,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "E3",
+        "noteNumber": 52,
+        "outputChannel": 16,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F3",
+        "noteNumber": 53,
+        "outputChannel": 17,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F#3",
+        "noteNumber": 54,
+        "outputChannel": 18,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G3",
+        "noteNumber": 55,
+        "outputChannel": 19,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G#3",
+        "noteNumber": 56,
+        "outputChannel": 20,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A3",
+        "noteNumber": 57,
+        "outputChannel": 21,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A#3",
+        "noteNumber": 58,
+        "outputChannel": 22,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "B3",
+        "noteNumber": 59,
+        "outputChannel": 23,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+
+
+    {
+        "noteName": "C4",
+        "noteNumber": 60,
+        "outputChannel": 24,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "C#4",
+        "noteNumber": 61,
+        "outputChannel": 25,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D4",
+        "noteNumber": 62,
+        "outputChannel": 26,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D#4",
+        "noteNumber": 63,
+        "outputChannel": 27,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "E4",
+        "noteNumber": 64,
+        "outputChannel": 28,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F4",
+        "noteNumber": 65,
+        "outputChannel": 29,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F#4",
+        "noteNumber": 66,
+        "outputChannel": 30,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G4",
+        "noteNumber": 67,
+        "outputChannel": 31,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G#4",
+        "noteNumber": 68,
+        "outputChannel": 32,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A4",
+        "noteNumber": 69,
+        "outputChannel": 33,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A#4",
+        "noteNumber": 70,
+        "outputChannel": 34,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "B4",
+        "noteNumber": 71,
+        "outputChannel": 35,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+
+
+    {
+        "noteName": "C5",
+        "noteNumber": 72,
+        "outputChannel": 36,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "C#5",
+        "noteNumber": 73,
+        "outputChannel": 37,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D5",
+        "noteNumber": 74,
+        "outputChannel": 38,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D#5",
+        "noteNumber": 75,
+        "outputChannel": 39,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "E5",
+        "noteNumber": 76,
+        "outputChannel": 40,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F5",
+        "noteNumber": 77,
+        "outputChannel": 41,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F#5",
+        "noteNumber": 78,
+        "outputChannel": 42,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G5",
+        "noteNumber": 79,
+        "outputChannel": 43,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G#5",
+        "noteNumber": 80,
+        "outputChannel": 44,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A5",
+        "noteNumber": 81,
+        "outputChannel": 45,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A#5",
+        "noteNumber": 82,
+        "outputChannel": 46,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "B5",
+        "noteNumber": 83,
+        "outputChannel": 47,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+
+
+    {
+        "noteName": "C6",
+        "noteNumber": 84,
+        "outputChannel": 48,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "C#6",
+        "noteNumber": 85,
+        "outputChannel": 49,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D6",
+        "noteNumber": 86,
+        "outputChannel": 50,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "D#6",
+        "noteNumber": 87,
+        "outputChannel": 51,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "E6",
+        "noteNumber": 88,
+        "outputChannel": 52,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F6",
+        "noteNumber": 89,
+        "outputChannel": 53,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "F#6",
+        "noteNumber": 90,
+        "outputChannel": 54,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G6",
+        "noteNumber": 91,
+        "outputChannel": 55,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "G#6",
+        "noteNumber": 92,
+        "outputChannel": 56,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A6",
+        "noteNumber": 93,
+        "outputChannel": 57,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "A#6",
+        "noteNumber": 94,
+        "outputChannel": 58,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+    {
+        "noteName": "B6",
+        "noteNumber": 95,
+        "outputChannel": 59,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    },
+
+
+
+    {
+        "noteName": "C7",
+        "noteNumber": 96,
+        "outputChannel": 60,
+        "calibrationData": {"minValue": 0, "maxValue": 10000}
+    }
+]
