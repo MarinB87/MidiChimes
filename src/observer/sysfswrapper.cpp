@@ -3,7 +3,7 @@
 
 std::string pwmDriverPath = "/sys/class/pwm/pwmchip0/";
 std::string pwmExportFileName = "export";
-std::string pwmChannelName = "pwm";
+std::string pwmChannelName = "pwm-0:";
 std::string pwmPeriod = "period";
 std::string pwmDutyCycle = "duty_cycle";
 std::string pwmEnable = "enable";
