@@ -15,7 +15,7 @@ class PwmDriverWrapper
 {
 public:
     int setPeriod(int channel, int value = FIX_PERIOD);
-    int setDutyCycle(int channel, int value);
+    int setDutyCycle(int channel, int value, int minDutyCycle, int maxDutyCycle);
     int enable(int channel, bool enable);
 };
 

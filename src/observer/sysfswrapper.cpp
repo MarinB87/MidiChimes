@@ -17,10 +17,14 @@ int PwmDriverWrapper::setPeriod(int channel, int value){
     return 0;
 }
 
-int PwmDriverWrapper::setDutyCycle(int channel, int value){
+int PwmDriverWrapper::setDutyCycle(int channel, int value, int minDutyCycle, int maxDutyCycle){
+    int dcRange = maxDutyCycle - minDutyCycle;
+    int increment = dcRange / 127;
+    int modulo = dcRange % 127;
+    float rest = float(modulo) / 127;
     std::ofstream outNoteDutyCycle(pwmDriverPath + pwmChannelName + 
     std::to_string(channel) + "/" + pwmDutyCycle);
-    outNoteDutyCycle << ((int)value * (10000 / 127));
+    outNoteDutyCycle << (minDutyCycle + (value * increment) + int(value * rest));
     outNoteDutyCycle.close();
     return 0;
 }

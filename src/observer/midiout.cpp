@@ -48,8 +48,11 @@ void MidiOutputInterface::update(unsigned char note, unsigned char velocity)
     // all of the parameters should be passed directly to this
     // method - update
 
+    int minDC = notespace::noteMap.at((int)note).getCalibMinValue();
+    int maxDC = notespace::noteMap.at((int)note).getCalibMaxValue();
+
     HoldOutput::driver.setPeriod(outChannel);
-    HoldOutput::driver.setDutyCycle(outChannel, velocity);
+    HoldOutput::driver.setDutyCycle(outChannel, velocity, minDC, maxDC);
     HoldOutput::driver.enable(outChannel, true);
 
     std::cout << "Note played: " << notespace::noteMap.at((int)note).getNoteName() << 
